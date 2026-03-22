@@ -1,5 +1,3 @@
-import { a } from "framer-motion/client"
-import type React from "react"
 import type { IconType } from "react-icons"
 import { SiDiscord, SiGithub, SiReddit, SiYoutube } from "react-icons/si"
 
