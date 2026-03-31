@@ -16,7 +16,7 @@ const Profile = () => {
 
   return (
     <div className="flex flex-col justify-center items-center gap-2 md:gap-4">
-      <img src={profil} alt="Wetar's profile" className="w-42 md:w-65" />
+      <img src={profil} alt="Wetar's profile" className="w-39 md:w-65" />
       <div className="flex justify-center items-center gap-2">
         <h1 className="text-white text-lg md:text-2xl font-bold">Wetar</h1>
         <p className="text-white text-lg md:text-2xl font-medium">|</p>
