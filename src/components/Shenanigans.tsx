@@ -35,7 +35,7 @@ const Projects = () => {
     <div className="flex flex-col justify-center items-center md:items-start gap-6">
       <div className="flex flex-col justify-center items-center md:items-start gap-4 text-center md:text-left">
         <h1 className="text-white text-4xl font-bold">About Me</h1>
-        <p className="text-white text-[0.75rem] md:text-lg md:font-medium mx-8 md:mx-0 md:max-w-120"><span className="font-bold">Wetar</span> whose real name is <span className="font-bold">Azril Haris Al Bana</span> is a <span className="font-bold">Junior Web Developer</span> and also a certified dumbass whose interest is on backend but for now still mainly doing some frontend stuff to sharpen his skill. My hobby as you have guessed are coding and playing games, and also i'm an introvert if that ain't worse enough yet.</p>
+        <p className="text-white text-[0.75rem] md:text-lg md:font-medium mx-8 md:mx-0 md:max-w-120"><span className="font-bold">Wetar</span> whose real name is <span className="font-bold">Azril</span> is a <span className="font-bold">Junior Web Developer</span> and also a certified dumbass whose interest is on backend but for now still mainly doing some frontend stuff to sharpen his skill. My hobby as you have guessed are coding and playing games, and also i'm an introvert if that ain't worse enough yet.</p>
       </div>
       <div className="flex flex-col justify-center items-center md:items-start gap-4">
         <h1 className="text-white text-4xl font-bold">Projects</h1>
